@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+
+# Datasets, checkpoints, and generated outputs
+data/
+checkpoints/
+outputs/
+*.pt
+*.pth
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
